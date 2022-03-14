@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8Dbfbe3A835E589B66FE561117017Be3A9f3369D",
+  "SCAN_LINK": "https://etherscan.io/address/0x8Dbfbe3A835E589B66FE561117017Be3A9f3369D",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mini Meta Monkeys",
+  "SYMBOL": "MMM",
+  "MAX_SUPPLY": 9988,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/minimetamonkeys",
+  "SHOW_BACKGROUND": true
+}
